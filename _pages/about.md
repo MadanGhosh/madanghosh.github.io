@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 Hi! I’m **Madanmohan Ghosh**, a Principal Economist at the Bank of Canada within the Canadian Economic Analysis Department. My work focuses on the intersection of economics and environmental policy, particularly the macroeconomic impacts of climate change.
 
 My research is primarily centered on the social and economic aspects of energy and environmental policy, international trade, and public finance. I am especially interested in how major economies transition toward net-zero emissions and the role of transformative technologies in decarbonizing industrial sectors.
