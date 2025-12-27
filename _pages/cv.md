@@ -1,38 +1,70 @@
 ---
-layout: cv
-title: CV
+layout: archive
+title: "CV"
 permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-# Download CV
-[Click here to download my full CV as a PDF](/assets/files/Ghosh_Resume_BoC_2025.pdf)
+{% include base_path %}
 
-# Education
-* **Post-Doctoral Fellow**, Western University, London, Ontario (1998–2000)
-* **Ph.D. in Economics**, Jawaharlal Nehru University, New Delhi (1999)
-  * *Dissertation:* The Revival of Regional Trade Arrangements: Implications for Indian Trade Policy
-* **M. Phil in Economics**, Jawaharlal Nehru University (1993)
-* **M.Sc. in Economics**, Calcutta University (1989)
+[Download my full CV as a PDF here](/assets/files/Ghosh_Resume_BoC_2025.pdf)
 
-# Professional Experience
-* **Principal Economist**, Bank of Canada, Canadian Economic Analysis Dept (2022–Present)
-* **Senior Advisor and Chief of CGE Modeling**, Environment and Climate Change Canada (2011–2022)
-* **Senior Policy Advisor**, Department of Finance, Government of Canada (2007–2010)
-* **Senior Research Economist**, Industry Canada (2004–2007)
-* **Research and Teaching Fellow**, University of Western Ontario (1998–2000)
+Education
+======
+* **Post-Doctoral Fellow**, Western University, London, Ontario, 1998–2000.
+* **Ph.D. in Economics**, Jawaharlal Nehru University, New Delhi, 1999.
+  * *Dissertation:* The Revival of Regional Trade Arrangements: Implications for Indian Trade Policy.
+* **M. Phil in Economics**, Jawaharlal Nehru University, New Delhi, 1993.
+* **M.Sc. in Economics**, Calcutta University, Calcutta, India, 1989.
 
-# Research Interests
-* CGE/IAM/DSGE model-based analyses of Climate Change Policies
-* Energy and Environmental policies, International Trade, and Public Finance
+Work experience
+======
+* **Principal Economist** (Feb 2022 – Present)
+  * Bank of Canada, Canadian Economic Analysis Department
+  * Focus: Intersection of economics and environmental policy, macroeconomic impacts of climate change.
 
-# Selected Publications
-* **Transitions in energy mix and the economic costs under a carbon constrained world** (2023). *Energy and Climate Change*.
-* **Income and investment, not energy policy, are driving GHG emission intensities** (2022). *Economic Systems Research*.
-* **A model intercomparison of the welfare effects of regional coalitions** (2022). *Climate Change Economics*.
-* **Revenue recycling and cost effective GHG abatement** (2018). *Climate Change Economics*.
+* **Senior Advisor and Chief of the CGE Modeling Section** (Jan 2011 – Feb 2022)
+  * Environment and Climate Change Canada, Government of Canada
+  * Duties included: Model development and quantitative analysis of energy and emission trends.
 
-# Honours & Professional Service
-* **Honours:** Shastri Indo-Canadian Institute Doctoral Award.
-* **Memberships:** AEA, CEA, IAEE.
-* **Reviewer:** Energy Economics, Canadian Journal of Economics, Energy Policy.
+* **Senior Policy Advisor** (March 2007 – Dec 2010)
+  * Department of Finance, Government of Canada
+  * Economic Studies and Policy Analysis Division.
+
+* **Senior Research Economist** (June 2004 – March 2007)
+  * Industry Canada, Micro-Economic Policy Analysis (MEPA) Branch.
+
+* **Research and Teaching Fellow** (Fall 1998 – Sept 2000)
+  * University of Western Ontario
+  * Taught: Applied General Equilibrium; Intermediate Macroeconomics.
+
+Skills
+======
+* **Economic Modeling:** CGE, IAM, DSGE frameworks.
+* **Policy Analysis:** Large-scale analysis of greenhouse gas abatement, carbon pricing, and net-zero transitions.
+* **Research Focus:** International Trade, Public Finance, Energy Policy.
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* **Professional Memberships:** American Economic Association (AEA), Canadian Economic Association (CEA), International Association for Energy Economics (IAEE).
+* **Peer Reviewer:** Energy Economics, Energy Policy, Canadian Journal of Economics, Journal of Policy Modeling.
