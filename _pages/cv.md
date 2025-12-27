@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my full CV as a PDF here](/assets/files/Ghosh_Resume_BoC_2025.pdf)
+[Full Resume](/files/Ghosh_Resume_BoC_2025.pdf)
 
 Education
 ======
@@ -46,24 +46,6 @@ Skills
 * **Policy Analysis:** Large-scale analysis of greenhouse gas abatement, carbon pricing, and net-zero transitions.
 * **Research Focus:** International Trade, Public Finance, Energy Policy.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * **Professional Memberships:** American Economic Association (AEA), Canadian Economic Association (CEA), International Association for Energy Economics (IAEE).
