@@ -27,10 +27,10 @@ author:
   name             : "Madanmohan Ghosh"
   pronouns         : "he/him" 
   bio              : "Principal Economist at the Bank of Canada specializing in climate change, energy, and environmental policy modeling."
-  [cite_start]location         : "Ottawa, ON" [cite: 5]
-  [cite_start]employer         : "Bank of Canada" [cite: 7]
-  [cite_start]uri              : "https://www.bankofcanada.ca/profile/madanmohan-ghosh/" [cite: 4, 5]
-  [cite_start]email            : "MGhosh@bank-banque-canada.ca" [cite: 3]
+  location         : "Ottawa, ON"
+  employer         : "Bank of Canada"
+  uri              : "https://www.bankofcanada.ca/profile/madanmohan-ghosh/"
+  email            : "MGhosh@bank-banque-canada.ca"
 
   # Academic websites
   academia         : # URL
