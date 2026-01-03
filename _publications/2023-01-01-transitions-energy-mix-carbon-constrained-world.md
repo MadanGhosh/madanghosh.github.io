@@ -1,7 +1,7 @@
 ---
 title: "Transitions in Energy Mix and the Economic Costs under a Carbon-Constrained World: The Role of Zero and Net-Negative Emission Technologies"
 collection: publications
-category: journal-articles
+category: manuscripts
 permalink: /publication/2023-01-01-transitions-energy-mix-carbon-constrained-world
 excerpt: "Assesses the role of zero and net-negative emission technologies in reducing mitigation costs under ambitious global carbon-constraint scenarios using integrated assessment modelling."
 date: 2023-01-01
