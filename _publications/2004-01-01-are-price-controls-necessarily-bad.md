@@ -1,7 +1,7 @@
 ---
 title: "Are Price Controls Necessarily Bad? The Case of Rice in Vietnam"
 collection: publications
-category: manuscripts
+category: manuscript
 permalink: /publication/2004-01-01-are-price-controls-necessarily-bad
 excerpt: "A case study analysis of rice price controls in Vietnam, challenging conventional economic assumptions about their impacts."
 date: 2004-01-01

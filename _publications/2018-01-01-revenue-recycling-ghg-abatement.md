@@ -1,7 +1,7 @@
 ---
 title: "Revenue recycling and cost effective GHG abatement: An exploratory analysis using a global multi-sector multi-region CGE model"
 collection: publications
-category: manuscripts
+category: manuscript
 permalink: /publication/2018-01-01-revenue-recycling-ghg-abatement
 excerpt: "Examines how different revenue recycling mechanisms influence the cost-effectiveness and economic impacts of carbon abatement policies."
 date: 2018-01-01

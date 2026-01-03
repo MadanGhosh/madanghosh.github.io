@@ -1,7 +1,7 @@
 ---
 title: "A model intercomparison of the welfare effects of regional coalitions for ambitious climate mitigation targets"
 collection: publications
-category: manuscripts
+category: manuscript
 permalink: /publication/2022-01-01-model-intercomparison-welfare-effects
 excerpt: "Explores the welfare implications of regional climate coalitions and ambitious mitigation targets through a comprehensive multi-model intercomparison."
 date: 2022-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Temperature control, emission abatements and costs: Key EMF 27 results from the Environment Canada integrated assessment model"
 collection: publications
-category: manuscripts
+category: manuscript
 permalink: /publication/2014-01-01-temperature-control-emission-costs
 excerpt: "Presents findings on the economic costs associated with specific temperature targets and emission abatement pathways based on EMF 27 scenarios."
 date: 2014-01-01

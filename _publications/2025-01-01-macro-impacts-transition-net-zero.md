@@ -1,7 +1,7 @@
 ---
 title: "Macroeconomic Impacts of the Transition to Net Zero in Small Open Economies"
 collection: publications
-category: manuscripts
+category: manuscript
 permalink: /publication/2025-01-01-macro-impacts-transition-net-zero
 excerpt: "Analyzing the transition to Net Zero and its macroeconomic consequences for small open economies like Canada."
 date: 2025-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Income and investment, not energy policy, are driving GHG emission intensities"
 collection: publications
-category: manuscripts
+category: manuscript
 permalink: /publication/2022-01-01-income-investment-not-energy-policy
 excerpt: "Analyzes the drivers of greenhouse gas emission intensities across economies, highlighting the dominant roles of income and investment over energy policies."
 date: 2022-01-01

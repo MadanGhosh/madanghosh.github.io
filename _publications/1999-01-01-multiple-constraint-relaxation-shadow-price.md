@@ -1,7 +1,7 @@
 ---
 title: "Multiple Constraint Relaxation and The Shadow Price of Foreign Exchange"
 collection: publications
-category: manuscripts
+category: manuscript
 permalink: /publication/1999-01-01-multiple-constraint-relaxation-shadow-price
 excerpt: "Technical analysis of shadow pricing in the context of multiple economic constraints."
 date: 1999-01-01
